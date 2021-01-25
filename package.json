@@ -1,0 +1,25 @@
+{
+  "name": "architectural-website-frontend",
+  "version": "1.0.0",
+  "description": "A website for architectural startup",
+  "main": "index.html",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start" :"npm run lite",
+    "lite" : "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tony-Kipchirchir/Architectural-website.git"
+  },
+  "author": "Tony Kipchirchir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tony-Kipchirchir/Architectural-website/issues"
+  },
+  "homepage": "https://github.com/Tony-Kipchirchir/Architectural-website#readme"
+}
